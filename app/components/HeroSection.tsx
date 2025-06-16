@@ -22,7 +22,6 @@ export default function HeroSection() {
 						<span className="px-4 py-2 bg-blue-500/10 rounded-full border border-blue-500/20">CSS</span>
 						<span className="px-4 py-2 bg-blue-500/10 rounded-full border border-blue-500/20">PHP</span>
 						<span className="px-4 py-2 bg-blue-500/10 rounded-full border border-blue-500/20">Next.js</span>
-						<span className="px-4 py-2 bg-blue-500/10 rounded-full border border-blue-500/20">HTML</span>
 						<span className="px-4 py-2 bg-blue-500/10 rounded-full border border-blue-500/20">NodeJS</span>
 						<span className="px-4 py-2 bg-blue-500/10 rounded-full border border-blue-500/20">Express</span>
 						<span className="px-4 py-2 bg-blue-500/10 rounded-full border border-blue-500/20">Python</span>
