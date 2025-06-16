@@ -38,7 +38,7 @@ export const metadata: Metadata = {
 	openGraph: {
 		title: 'Pascal Simon - Frontend Developer Portfolio',
 		description: 'Versatile frontend developer with full-stack expertise, building scalable, high-performance web applications. Explore my projects and frontend development expertise.',
-		url: 'https://pascalsimon.net',
+		url: 'https://psimon.vercel.app',
 		siteName: 'Pascal Simon - Portfolio',
 		images: [
 			{
