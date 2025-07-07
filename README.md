@@ -27,7 +27,7 @@ A sleek, responsive Next.js portfolio showcasing projects, skills, and a contact
 Live demo available at:  
 https://psimon.vercel.app
 
-![Portfolio Screenshot](/public/og-image.jpg)
+![Portfolio Screenshot](123.png)
 
 ---
 
