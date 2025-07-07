@@ -1,4 +1,4 @@
-# Pascal Simon – Frontend Developer Portfolio
+# Frontend Developer Portfolio
 
 A sleek, responsive Next.js portfolio showcasing projects, skills, and a contact section with smooth animations powered by Framer Motion and styled with Tailwind CSS.
 
