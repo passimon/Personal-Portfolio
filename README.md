@@ -163,12 +163,6 @@ This project is optimized for Vercel:
 
 Alternatively, you can deploy to Netlify, Cloudflare Pages, or your own server following their Next.js guides.
 
----
-
-## License
-
-This project is open source and available under the MIT License. See [LICENSE](LICENSE) for details.
-
 - [GitHub](https://github.com/your-username)  
 - [LinkedIn](https://linkedin.com/in/your-profile)  
 
