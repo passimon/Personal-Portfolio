@@ -169,13 +169,6 @@ Alternatively, you can deploy to Netlify, Cloudflare Pages, or your own server f
 
 This project is open source and available under the MIT License. See [LICENSE](LICENSE) for details.
 
----
-
-## Author
-
-**Pascal Simon**  
-- Frontend Developer  
-- [Website](https://psimon.vercel.app)  
 - [GitHub](https://github.com/your-username)  
 - [LinkedIn](https://linkedin.com/in/your-profile)  
 
