@@ -67,7 +67,7 @@ https://psimon.vercel.app
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/portfolio-nextjs.git
+git clone https://github.com/passimon/Personal-Portfolio.git
 cd portfolio-nextjs
 
 # Install dependencies
