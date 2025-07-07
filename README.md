@@ -162,8 +162,3 @@ This project is optimized for Vercel:
 3. Vercel will auto-detect Next.js and deploy your site.
 
 Alternatively, you can deploy to Netlify, Cloudflare Pages, or your own server following their Next.js guides.
-
-- [GitHub](https://github.com/your-username)  
-- [LinkedIn](https://linkedin.com/in/your-profile)  
-
-Feel free to reach out for collaborations or inquiries!
